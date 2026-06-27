@@ -67,7 +67,8 @@ GitHub - Dream047zuoye 大学生作业 · GitHub.png
 
 ## 📝 实验报告
 
-大作业报告.
+大作业报告.docx
+大作业报告.pdf
 
 ## 💻 实验素材
 
